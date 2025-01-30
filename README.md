@@ -174,13 +174,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 💬 **Contributing**
-Contributions are welcome! Feel free to submit a pull request or open an issue if you have any suggestions or improvements.
-
----
-
-## 📞 **Contact**
-For questions or support, please contact:
-- **Author:** Your Name
-- **Email:** your.email@example.com
-
